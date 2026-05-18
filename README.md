@@ -810,20 +810,20 @@ Contributions are welcome! The project aims to be a platform for telecom analyti
 
 ### Awards & Recognition
 
-This project was developed as part of B.Tech Final Year Project at **Jabalpur Engineering College, Department of AI & Data Science Engineering**, under the supervision of:
+This project was developed as part of B.Tech Pre Final Year Minor Project at **Jabalpur Engineering College, Department of Artificial Intelligence & Data Science Engineering**, under the supervision of:
 
 - **Prof. Ravindra Kumar** (Project Guide)
-- **Dr. Rajeev Chandak** (Principal)
-- **Dr. Agya Mishra** (Department Head)
+- **Dr. Rajeev Chandak** (Principal, JEC Jabalpur)
+- **Dr. Agya Mishra** (Head of Department - AI&DS)
 
 ### Team
 
-- **Shahi Sharma** (0201AI231059)
-- **Shivansh Garg** (0201AI231060)
-- **Shrey Agrawal** (0201AI231061)
-- **Shreya Prajapati** (0201AI231062)
-- **Somnath Dhurvey** (0201AI231063)
-
+- **Shahi Sharma** 
+- **Shivansh Garg**
+- **Shrey Agrawal**
+- **Shreya Prajapati**
+- **Somnath Dhurvey**
+Batch of 2023-2027 at Department of AI&DS, JEC Jabalpur
 ---
 
 ## 📚 Documentation & Resources
@@ -863,9 +863,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-- **Project Repository:** https://github.com/yourusername/TeleChurnIQ
-- **Email:** your-email@example.com
-- **Institution:** Jabalpur Engineering College, AIDA Department
+- **Project Repository:** https://github.com/shivansh2344/TeleChurnIQ
+- **Email:** shivanshgarg23.4.4@gmail.com
+- **Institution:** Jabalpur Engineering College, Department of Artificial Intelligence & Data Science
 
 ---
 
@@ -874,16 +874,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 We deeply appreciate:
 
 - **Prof. Ravindra Kumar** for consistent guidance and expertise
-- **JECA Faculty Members** for foundational knowledge and support
+- **JEC AI&DS Faculty Members** for foundational knowledge and support
 - **Open Source Community** for libraries enabling this project (scikit-learn, SHAP, React)
 - **IBM** for the Telco Customer Churn dataset
-- **Our Parents** for unwavering support throughout the project
+- **Our Parents and Friends** for unwavering support throughout the project
 
 ---
 
 <div align="center">
 
-**Built with ❤️ at Jabalpur Engineering College**
+**Built with ❤️ by Shivansh**
 
 Made with 🤖 ML | 🎨 React | 📊 SHAP | 🚀 Production-Ready
 
