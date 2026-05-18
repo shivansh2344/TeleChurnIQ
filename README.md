@@ -823,7 +823,6 @@ This project was developed as part of B.Tech Pre Final Year Minor Project at **J
 - **Shrey Agrawal**
 - **Shreya Prajapati**
 - **Somnath Dhurvey**
-Batch of 2023-2027 at Department of AI&DS, JEC Jabalpur
 ---
 
 ## 📚 Documentation & Resources
